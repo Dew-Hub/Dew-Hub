@@ -1,6 +1,6 @@
 <h2 align="center">Merhaba 👋, Ben Dew-Hub</h2>
 
-[![Dew-Hub's 42 stats](https://badge.mediaplus.ma/greenbinary/Dew-Hub?1337Badge=off&UM6P=off)](https://github.com/Dew-Hub)
+[![buonturk's 42 stats](https://badge.mediaplus.ma/darkblue/buonturk)](https://github.com/oakoudad/badge42)
 
 ---
 

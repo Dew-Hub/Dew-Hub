@@ -19,6 +19,17 @@
 
 <div align="center">
   [![Libft](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/libftm.png)](https://github.com/Dew-Hub/Libft)
+  [![GNL](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/get_next_linem.png)](https://github.com/Dew-Hub/Get_next_line)
+  [![PRINTF](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/ft_printfm.png)](https://github.com/Dew-Hub/ft_printf)
+  [![Born2BeRoot](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/born2berootm.png)](https://github.com/Dew-Hub/Born42beroot)
+  [![Minitalk](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/minitalkm.png)](https://github.com/Dew-Hub/Minitalk)
+  [![So_long](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/so_longm.png)](https://github.com/Dew-Hub/So_Long)
+  [![Push_swap](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/push_swapm.png)](https://github.com/Dew-Hub/Push_Swap)
+  [![Philosophers](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/philosophersm.png)](https://github.com/Dew-Hub/Philosophers)
+  [![Netpractice](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/netpracticem.png)](https://github.com/Dew-Hub)
+  [![Minishell](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/minishellm.png)](https://github.com/Dew-Hub)
+  [![Cub3d](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/cub3dm.png)](https://github.com/Dew-Hub)
+  [![CPP Modules](https://github.com/Dew-Hub/Dew-Hub/blob/main/42_badges/cppe.png)](https://github.com/Dew-Hub/CPP_Modules)
 </div>
 
 ## GitHub Stats

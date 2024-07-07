@@ -18,6 +18,7 @@
 ## 🚀 42 Projects
 
 <div align="center">
+  
   [![Libft](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/libftm.png)](https://github.com/Dew-Hub/Libft)
   [![GNL](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/get_next_linem.png)](https://github.com/Dew-Hub/Get_next_line)
   [![PRINTF](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/ft_printfm.png)](https://github.com/Dew-Hub/ft_printf)
@@ -35,6 +36,7 @@
 ## GitHub Stats
 
 <div align="center">
+  
   [![Dew-Hub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dew-Hub&theme=algolia&show_icons=true)](https://github.com/Dew-Hub)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Dew-Hub&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Dew-Hub)
 </div>

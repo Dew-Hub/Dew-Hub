@@ -17,7 +17,7 @@
 ## 🚀 42 Projects
 
 <div align="center">
-    [![Libft]<img src="(https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/libfte.png)" alt="Proje 1 Logo" width="90"/>](https://github.com/Dew-Hub/Libft)
+    [![Libft]<img src="(https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/libfte.png)" width="90"/>](https://github.com/Dew-Hub/Libft)
 
   
   [![GNL](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/get_next_linee.png)](https://github.com/Dew-Hub/Get_next_line)

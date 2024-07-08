@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/X16B8hk.gif"  />
+  <img height="100" src="https://i.imgur.com/qHVIFo2.gif"  />
 </div>
 
 ###
@@ -18,7 +18,10 @@
 
 ###
 
-----
+<div align="center">
+  <img height="33" src="https://i.imgur.com/A5wybKO.gif"  />
+</div>
+
 
 <h1 align="center">Echole 42 Projects</h1>
 
@@ -146,6 +149,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/SzMY4Rj.gif"  />
+  <img height="100" src="https://i.imgur.com/rNVzHK6.gif"  />
 </div>
 

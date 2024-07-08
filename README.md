@@ -13,6 +13,63 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://i.imgur.com/iDtgtyT.gif"  />
+</div>
+
+###
+
+----
+
+<h1 align="center">Echole 42 Projects</h1>
+
+<div align="center">
+
+| Circle   | Project                                                | Description                                                                                          | Progress                                                                                 |
+|----------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Circle 0 | [**libft**](https://github.com/dew-hub/libft)          | The goal of this project is to recreate standard C library functions to better understand them and use in future projects. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**get_next_line**](https://github.com/Dew-Hub/get_next_line) | The aim of this project is to write a function that reads a line from a file descriptor until a newline character is found. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**ft_printf**](https://github.com/dew-hub/ft_printf)  | The purpose of this project is to implement a simplified version of the C `printf` function. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**borntoberoot**](https://github.com/dew-hub/Born2Beroot) | This project involves setting up a virtual machine and understanding basic system administration tasks. | ![80%](https://img.shields.io/badge/Finish-80%25-brightgreen)                           |
+| Circle 2 | [**minitalk**](https://github.com/dew-hub/Minitalk)    | The goal of this project is to create a small data exchange program using UNIX signals. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 2 | [**so_long**](https://github.com/dew-hub/so_long_Linux) | This project involves creating a small 2D game where a player can move around and interact with objects on the screen. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 2 | [**push_swap**](https://github.com/dew-hub/push_swap)  | The aim of this project is to sort data on a stack with a limited set of operations and the smallest number of moves. | ![98%](https://img.shields.io/badge/Finish-98%25-brightgreen)                           |
+
+</div>
+
+###
+
+----
+
+<h1 align="center">Unity Projects</h1>
+
+<div align="center">
+
+| Project                                                | Description                                                                                          | Progress                                                                                 |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [**U-39GameJam**](https://github.com/Dew-Hub/U-39GameJam) | This project is a 2-day game jam project named "Büyücü Akademisi: Kayıp Kitaplar" developed during the "Google Oyun ve Uygulama Akademisi". It features a magical theme with wizards and pixel art graphics, utilizing various assets from Unity's asset store. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+| [**U-78**](https://github.com/Dew-Hub/U-78)            | This project is the final bootcamp project for the "Google Game & App Academy". It involves solving puzzles in different levels, ending with a boss fight. The game is designed for PC release on Steam and targets puzzle enthusiasts aged 9 and above. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+</div>
+
+###
+
+----
+
+<h1 align="center">etc.</h1>
+
+<div align="center">
+
+| Project                                                | Language | Description                                                                                          | Progress                                                                                 |
+|--------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [**Kodluyoruz-HiKod_02**](https://github.com/Dew-Hub/Kodluyoruz-HiKod_02) | Python   | This project is part of the "Kodluyoruz HiKod 02" program and focuses on Python and data science. It includes various weekly projects and a final project demonstrating the skills learned throughout the course. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+| [**Elginkan-Csharp**](https://github.com/Dew-Hub/Elginkan-Csharp) | C#       | This repository contains various C# projects and examples, including several sub-projects like Console applications and Windows Forms applications, providing a good collection of C# programming exercises. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+
+</div>
+
+----
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -86,59 +143,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/iDtgtyT.gif"  />
-</div>
-
-###
-
-----
-
-<h1 align="center">Echole 42 Projects</h1>
-
-<div align="center">
-
-| Circle   | Project                                                | Description                                                                                          | Progress                                                                                 |
-|----------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Circle 0 | [**libft**](https://github.com/dew-hub/libft)          | The goal of this project is to recreate standard C library functions to better understand them and use in future projects. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| Circle 1 | [**get_next_line**](https://github.com/Dew-Hub/get_next_line) | The aim of this project is to write a function that reads a line from a file descriptor until a newline character is found. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| Circle 1 | [**ft_printf**](https://github.com/dew-hub/ft_printf)  | The purpose of this project is to implement a simplified version of the C `printf` function. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| Circle 1 | [**borntoberoot**](https://github.com/dew-hub/Born2Beroot) | This project involves setting up a virtual machine and understanding basic system administration tasks. | ![80%](https://img.shields.io/badge/Finish-80%25-brightgreen)                           |
-| Circle 2 | [**minitalk**](https://github.com/dew-hub/Minitalk)    | The goal of this project is to create a small data exchange program using UNIX signals. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| Circle 2 | [**so_long**](https://github.com/dew-hub/so_long_Linux) | This project involves creating a small 2D game where a player can move around and interact with objects on the screen. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| Circle 2 | [**push_swap**](https://github.com/dew-hub/push_swap)  | The aim of this project is to sort data on a stack with a limited set of operations and the smallest number of moves. | ![98%](https://img.shields.io/badge/Finish-98%25-brightgreen)                           |
-
-</div>
-
-###
-
-----
-
-<h1 align="center">Unity Projects</h1>
-
-<div align="center">
-
-| Project                                                | Description                                                                                          | Progress                                                                                 |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| [**U-39GameJam**](https://github.com/Dew-Hub/U-39GameJam) | This project is a 2-day game jam project named "Büyücü Akademisi: Kayıp Kitaplar" developed during the "Google Oyun ve Uygulama Akademisi". It features a magical theme with wizards and pixel art graphics, utilizing various assets from Unity's asset store. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
-| [**U-78**](https://github.com/Dew-Hub/U-78)            | This project is the final bootcamp project for the "Google Game & App Academy". It involves solving puzzles in different levels, ending with a boss fight. The game is designed for PC release on Steam and targets puzzle enthusiasts aged 9 and above. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
-</div>
-
-###
-
-----
-
-<h1 align="center">etc.</h1>
-
-<div align="center">
-
-| Project                                                | Language | Description                                                                                          | Progress                                                                                 |
-|--------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| [**Kodluyoruz-HiKod_02**](https://github.com/Dew-Hub/Kodluyoruz-HiKod_02) | Python   | This project is part of the "Kodluyoruz HiKod 02" program and focuses on Python and data science. It includes various weekly projects and a final project demonstrating the skills learned throughout the course. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
-| [**Elginkan-Csharp**](https://github.com/Dew-Hub/Elginkan-Csharp) | C#       | This repository contains various C# projects and examples, including several sub-projects like Console applications and Windows Forms applications, providing a good collection of C# programming exercises. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
-
-</div>
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/SzMY4Rj.gif"  />

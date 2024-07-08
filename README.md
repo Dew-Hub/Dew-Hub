@@ -73,10 +73,8 @@
 
 </div>
 
-----
-
 <div align="center">
-  <img height="33" src="https://i.imgur.com/GzL1Ysg.gif  />
+  <img height="33" src="https://i.imgur.com/GzL1Ysg.gif"  />
 </div>
 
 ###

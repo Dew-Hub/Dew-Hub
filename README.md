@@ -98,21 +98,21 @@
 
 <h1 align="center">Echole 42 Projects</h1>
 
+</div>
+
 
 <div align="center">
 
-<div align="center">
-
-| Project                                                | Description                                                                                          | Circle   | Progress                                                                                 |
-|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------|
-| [**libft**](https://github.com/dew-hub/libft)          | The goal of this project is to recreate standard C library functions to better understand them and use in future projects. | Circle 0 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| [**get_next_line**](https://github.com/Dew-Hub/get_next_line) | The aim of this project is to write a function that reads a line from a file descriptor until a newline character is found. | Circle 1 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| [**ft_printf**](https://github.com/dew-hub/ft_printf)  | The purpose of this project is to implement a simplified version of the C `printf` function. | Circle 1 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| [**borntoberoot**](https://github.com/dew-hub/Born2Beroot) | This project involves setting up a virtual machine and understanding basic system administration tasks. | Circle 1 | ![80%](https://img.shields.io/badge/Finish-80%25-brightgreen)                           |
-| [**minitalk**](https://github.com/dew-hub/Minitalk)    | The goal of this project is to create a small data exchange program using UNIX signals. | Circle 2 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| [**so_long**](https://github.com/dew-hub/so_long_Linux) | This project involves creating a small 2D game where a player can move around and interact with objects on the screen. | Circle 2 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
-| [**push_swap**](https://github.com/dew-hub/push_swap)  | The aim of this project is to sort data on a stack with a limited set of operations and the smallest number of moves. | Circle 2 | ![98%](https://img.shields.io/badge/Finish-98%25-brightgreen)                           |
+| Circle   | Project                                                | Description                                                                                          | Progress                                                                                 |
+|----------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Circle 0 | [**libft**](https://github.com/dew-hub/libft)          | The goal of this project is to recreate standard C library functions to better understand them and use in future projects. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**get_next_line**](https://github.com/Dew-Hub/get_next_line) | The aim of this project is to write a function that reads a line from a file descriptor until a newline character is found. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**ft_printf**](https://github.com/dew-hub/ft_printf)  | The purpose of this project is to implement a simplified version of the C `printf` function. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 1 | [**borntoberoot**](https://github.com/dew-hub/Born2Beroot) | This project involves setting up a virtual machine and understanding basic system administration tasks. | ![80%](https://img.shields.io/badge/Finish-80%25-brightgreen)                           |
+| Circle 2 | [**minitalk**](https://github.com/dew-hub/Minitalk)    | The goal of this project is to create a small data exchange program using UNIX signals. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 2 | [**so_long**](https://github.com/dew-hub/so_long_Linux) | This project involves creating a small 2D game where a player can move around and interact with objects on the screen. | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| Circle 2 | [**push_swap**](https://github.com/dew-hub/push_swap)  | The aim of this project is to sort data on a stack with a limited set of operations and the smallest number of moves. | ![98%](https://img.shields.io/badge/Finish-98%25-brightgreen)                           |
 
 </div>
 
-</div>
+

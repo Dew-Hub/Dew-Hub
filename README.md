@@ -1,7 +1,6 @@
 <h2 align="center">Merhaba 👋, Ben Dew-Hub</h2>
 
 [![buonturk's 42 stats](https://badge.mediaplus.ma/darkblue/buonturk)](https://github.com/oakoudad/badge42)
-[![42 Project Score](https://42-project-badge.glitch.me/users/buonturk/project/libft)](https://github.com/ricardoreves/42-project-badge)
 ---
 
 - 🌱 Şu anda öğreniyorum Unity & UE5

@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dew-hub.dew-hub&"  />
+</div>
+
+###
+
 <div align="center">
   <img height="140" src="https://i.imgur.com/nHrhwrU.gif"  />
 </div>
@@ -73,8 +80,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dew-hub.dew-hub&"  />
-</div>
-
-###

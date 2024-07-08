@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dew-hub.dew-hub&"  />
+  <img height="200" src="https://i.imgur.com/X16B8hk.gif"  />
 </div>
 
 ###
@@ -10,12 +9,6 @@
 ###
 
 <p align="center">I’m currently learning UE5<br>I have a certificate on Unity<br>I am currently studying at 42 École<br>I focused on developing my skills as a Game and Program developer<br>Feel free to check out my projects and connect with me. Let's build something amazing together!</p>
-
-###
-
-<div align="center">
-  <img height="140" src="https://i.imgur.com/nHrhwrU.gif"  />
-</div>
 
 ###
 
@@ -89,6 +82,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dew-hub.dew-hub&"  />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://i.imgur.com/iDtgtyT.gif"  />
 </div>
 
@@ -139,5 +138,9 @@
 | [**Kodluyoruz-HiKod_02**](https://github.com/Dew-Hub/Kodluyoruz-HiKod_02) | Python   | This project is part of the "Kodluyoruz HiKod 02" program and focuses on Python and data science. It includes various weekly projects and a final project demonstrating the skills learned throughout the course. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
 | [**Elginkan-Csharp**](https://github.com/Dew-Hub/Elginkan-Csharp) | C#       | This repository contains various C# projects and examples, including several sub-projects like Console applications and Windows Forms applications, providing a good collection of C# programming exercises. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
 
+</div>
+
+<div align="center">
+  <img height="200" src="https://i.imgur.com/SzMY4Rj.gif"  />
 </div>
 

@@ -53,7 +53,7 @@
 | Project                                                | Description                                                                                          | Progress                                                                                 |
 |--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [**U-39GameJam**](https://github.com/Dew-Hub/U-39GameJam) | This project is a 2-day game jam project named "Büyücü Akademisi: Kayıp Kitaplar" developed during the "Google Oyun ve Uygulama Akademisi". It features a magical theme with wizards and pixel art graphics, utilizing various assets from Unity's asset store. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
-| [**U-78**](https://github.com/Dew-Hub/U-78)            | This project is the final bootcamp project for the "Google Game & App Academy". It involves solving puzzles in different levels, ending with a boss fight. The game is designed for PC release on Steam and targets puzzle enthusiasts aged 9 and above. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+| [**U-78**](https://github.com/Dew-Hub/U-78)            | This project is the final bootcamp project for the "Google Oyun ve Uygulama Akademisi". It involves solving puzzles in different levels, ending with a boss fight. The game is designed for PC release on Steam and targets puzzle enthusiasts aged 9 and above. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
 </div>
 
 ###

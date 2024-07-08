@@ -80,3 +80,10 @@
 
 ###
 
+<h1 align="center">About Me</h1>
+
+###
+
+<p align="center">I’m currently learning UE5<br>I have a certificate on Unity<br>I am currently studying at 42 École<br>I focused on developing my skills as a Game and Program developer<br>Feel free to check out my projects and connect with me. Let's build something amazing together!</p>
+
+###

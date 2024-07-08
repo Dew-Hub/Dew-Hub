@@ -97,3 +97,18 @@
 ----
 
 <h1 align="center">Echole 42 Projects</h1>
+
+
+<div align="center">
+
+| Project                                                | Description                                                                                          | Circle   | Progress                                                                                 |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------|
+| [**libft**](https://github.com/dew-hub/libft)          | The goal of this project is to create your own C library                                             | Circle 0 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| [**get_next_line**](https://github.com/Dew-Hub/get_next_line) | The aim of this project is to create a function which reads from file descriptor and returns a line from fd | Circle 1 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| [**ft_printf**](https://github.com/dew-hub/ft_printf)  | The purpose of this project is to make a copy of the original printf function                        | Circle 1 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| [**borntoberoot**](https://github.com/dew-hub/Born2Beroot) | The purpose is to test your network knowledge                                                      | Circle 1 | ![100%](https://img.shields.io/badge/Finish-80%25-brightgreen)                           |
+| [**minitalk**](https://github.com/dew-hub/Minitalk)    | The purpose is to test your network knowledge                                                        | Circle 2 | ![100%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| [**so_long**](https://github.com/dew-hub/so_long_Linux) | Let's make a little and cute 2D game                                                                 | Circle 2 | ![110%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+| [**push_swap**](https://github.com/dew-hub/push_swap)  | Code the program that sorts the numbers we give it                                                   | Circle 2 | ![98%](https://img.shields.io/badge/Finish-100%25-brightgreen)                           |
+
+</div>

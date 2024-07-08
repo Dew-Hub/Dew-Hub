@@ -5,6 +5,14 @@
 
 ###
 
+<h1 align="center">About Me</h1>
+
+###
+
+<p align="center">I’m currently learning UE5<br>I have a certificate on Unity<br>I am currently studying at 42 École<br>I focused on developing my skills as a Game and Program developer<br>Feel free to check out my projects and connect with me. Let's build something amazing together!</p>
+
+###
+
 <div align="center">
   <img height="140" src="https://i.imgur.com/nHrhwrU.gif"  />
 </div>
@@ -77,13 +85,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="42" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">About Me</h1>
-
-###
-
-<p align="center">I’m currently learning UE5<br>I have a certificate on Unity<br>I am currently studying at 42 École<br>I focused on developing my skills as a Game and Program developer<br>Feel free to check out my projects and connect with me. Let's build something amazing together!</p>
 
 ###

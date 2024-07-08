@@ -17,9 +17,8 @@
 ## 🚀 42 Projects
 
 <div align="center">
-    [![Libft]<img src="(https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/libfte.png)" width="90"/>](https://github.com/Dew-Hub/Libft)
-
   
+  [![Libft](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/libfte.png)](https://github.com/Dew-Hub/Libft)
   [![GNL](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/get_next_linee.png)](https://github.com/Dew-Hub/Get_next_line)
   [![PRINTF](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/ft_printfe.png)](https://github.com/Dew-Hub/ft_printf)
   [![Born2BeRoot](https://github.com/Dew-Hub/Dew-Hub/blob/master/42_badges/born2beroote.png)](https://github.com/Dew-Hub/Born42beroot)

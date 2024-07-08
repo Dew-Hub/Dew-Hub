@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dew-hub/dew-hub/output/snake.svg" alt="Snake animation" />
+![github-user-contribution](https://github.com/Dew-Hub/Dew-Hub/assets/54241620/75f5dd9b-bb12-48b8-b02f-b875cf1131b9)
 
 ###
 

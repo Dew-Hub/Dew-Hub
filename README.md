@@ -98,9 +98,6 @@
 
 <h1 align="center">Echole 42 Projects</h1>
 
-</div>
-
-
 <div align="center">
 
 | Circle   | Project                                                | Description                                                                                          | Progress                                                                                 |
@@ -115,4 +112,32 @@
 
 </div>
 
+###
+
+----
+
+<h1 align="center">Unity Projects</h1>
+
+<div align="center">
+
+| Project                                                | Description                                                                                          | Progress                                                                                 |
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [**U-39GameJam**](https://github.com/Dew-Hub/U-39GameJam) | This project is a 2-day game jam project named "Büyücü Akademisi: Kayıp Kitaplar" developed during the "Google Oyun ve Uygulama Akademisi". It features a magical theme with wizards and pixel art graphics, utilizing various assets from Unity's asset store. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+| [**U-78**](https://github.com/Dew-Hub/U-78)            | This project is the final bootcamp project for the "Google Game & App Academy". It involves solving puzzles in different levels, ending with a boss fight. The game is designed for PC release on Steam and targets puzzle enthusiasts aged 9 and above. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+</div>
+
+###
+
+----
+
+<h1 align="center">Languages</h1>
+
+<div align="center">
+
+| Project                                                | Language | Description                                                                                          | Progress                                                                                 |
+|--------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [**Kodluyoruz-HiKod_02**](https://github.com/Dew-Hub/Kodluyoruz-HiKod_02) | Python   | This project is part of the "Kodluyoruz HiKod 02" program and focuses on Python and data science. It includes various weekly projects and a final project demonstrating the skills learned throughout the course. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+| [**Elginkan-Csharp**](https://github.com/Dew-Hub/Elginkan-Csharp) | C#       | This repository contains various C# projects and examples, including several sub-projects like Console applications and Windows Forms applications, providing a good collection of C# programming exercises. | ![Success](https://img.shields.io/badge/Finish-Success-brightgreen)                           |
+
+</div>
 

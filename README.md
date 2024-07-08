@@ -1,6 +1,6 @@
 <h2 align="center">Merhaba 👋, Ben Dew-Hub</h2>
 
-[![buonturk's 42 stats](https://badge.mediaplus.ma/darkblue/buonturk)](https://github.com/oakoudad/badge42)
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=buonturk)](https://github.com/mohouyizme/1337-readme)
 ---
 
 - 🌱 Şu anda öğreniyorum Unity & UE5

@@ -130,7 +130,7 @@
 
 ----
 
-<h1 align="center">Languages</h1>
+<h1 align="center">etc.</h1>
 
 <div align="center">
 
